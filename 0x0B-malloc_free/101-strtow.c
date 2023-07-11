@@ -60,14 +60,9 @@ k++;
 c = 0;
 }
 }
-
-              else if (c++ == 0)
-
-                        start = i;
-
-        }
-
-
+else if (c++ == 0)
+start = i;
+}
 matrix[k] = NULL;
 return (matrix);
 }
