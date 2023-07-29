@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-__putchar('');
+//__putchar(' ');
 __putchar('p');
 __putchar('u');
 __putchar('t');
